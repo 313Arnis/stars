@@ -1,5 +1,5 @@
--- CREATE DATABASE stars;
--- USE stars;
+CREATE DATABASE stars;
+USE stars;
 
 CREATE TABLE users(
 	id	INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
